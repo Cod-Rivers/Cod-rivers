@@ -8,7 +8,7 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=riversdev42&layout=compact&langs_count=8&card_width=280" />
 </a>
   
-✨🔭 Olaaa! Meu nome é Riverson, estou em transição de carreira, vindo da aréa de Educação Física para tecnologia, estava seguindo 
+✨🔭 Olaaa! Meu nome é Riverson, estou em transição de carreira, vindo da Educação Física para tecnologia, estava seguindo 
 o aprendizado sozinho até ter sido admitido em um programa gratuito de introdução em programação com foco em Front-End,
 um bootcamp da Proz Educação. ✨
 

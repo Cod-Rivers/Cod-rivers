@@ -12,11 +12,10 @@
 o aprendizado sozinho até ter sido admitido em um programa gratuito de introdução em programação com foco em Front-End,
 um bootcamp da Proz Educação. ✨
 
-- 🌱 Agora em Julho de 2023 consegui passar em um processo seletivo aqui do Rio de Janeiro para cursar Engenharia de software pela
-42Rio, estarei começando o curso em outubro e estou muito animado por ter conseguido essa vaga em uma das melhores escolas de tec
-nologia do mundo.
+🌱 Agora em Julho de 2023 consegui passar em um processo seletivo aqui no Rio de Janeiro para cursar Engenharia de software pela 42Rio,
+   estarei começando o curso em outubro e estou muito animado por ter conseguido essa vaga em uma das melhores escolas de tecnologia do mundo.
 
-- 😄 Pronomes: ele/dele
+😄 Pronomes: ele/dele
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">

@@ -5,7 +5,7 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=riversdev42&show_icons=true&theme=radical" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=riversdev42&layout=compact&langs_count=8&card_width=320" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=riversdev42&layout=compact&langs_count=8&card_width=280" />
 </a>
   
 ✨🔭 Olaaa! Meu nome é Riverson, estou em transição de carreira, vindo da aréa de Educação Física para tecnologia, estava seguindo 

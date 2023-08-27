@@ -34,6 +34,8 @@ nologia do mundo.
   <a href="https://www.linkedin.com/in/riversdev42/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
+##
 ![snake gif](https://github.com/riversdev42/riversdev42/blob/output/github-contribution-grid-snake.svg)
+##
 <center><img src="https://gifs.eco.br/wp-content/uploads/2022/08/gifs-de-dota-14.gif"></center>
 

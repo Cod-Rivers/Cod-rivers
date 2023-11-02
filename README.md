@@ -9,11 +9,10 @@
 </a>
   
 ✨🔭 Olaaa! Meu nome é Riverson, estou em transição de carreira, vindo da Educação Física para tecnologia, estava seguindo 
-o aprendizado sozinho até ter sido admitido em um programa gratuito de introdução em programação com foco em Front-End,
-um bootcamp da Proz Educação. ✨
+o aprendizado sozinho até ter sido admitido em um programa gratuito de introdução em programação e em seguida comecei a estudar na 42 Rio. também participei de um bootcamp na Proz Educação. ✨
 
-🌱 Agora em Julho de 2023 consegui passar em um processo seletivo aqui no Rio de Janeiro para cursar Engenharia de software pela 42Rio,
-   estarei começando o curso em outubro e estou muito animado por ter conseguido essa vaga em uma das melhores escolas de tecnologia do mundo.
+🌱 Como citado brevemente acima, Agora em Julho de 2023 consegui passar em um processo seletivo aqui no Rio de Janeiro para cursar Engenharia de software pela 42Rio,
+   comecei o curso em outubro e estou muito animado por ter conseguido essa vaga em uma das melhores escolas de tecnologia do mundo.
 
 😄 Pronomes: ele/dele
 <div style="display: inline_block"><br>
